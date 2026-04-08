@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm [Nishan Rayamajhi] 👋🔥
 
-<!--
-**Nishan963/Nishan963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇳🇵 IT Student from Nepal | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+## 🚀 My Goal
+Building skills to work in AI/ML and land a remote job.
+Documenting every step of my journey here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills I'm Building
+- 🐍 Python (Pandas, NumPy, Scikit-learn)
+- 🤖 Machine Learning & AI
+- 📊 Data Analysis & Visualization
+- 🗄️ SQL & Databases
+- ☁️ AWS (learning)
+
+## 📚 Currently Learning
+- Machine Learning with Scikit-learn
+- Building AI apps with Python
+- Kaggle competitions
+
+## 🔥 Projects
+| Project | Description | Tech |
+|---|---|---|
+| Coming soon | Data Analysis Project | Python, Pandas |
+| Coming soon | ML Model | Scikit-learn |
+| Coming soon | AI Chatbot | OpenAI API |
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+## 📫 Connect With Me
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/nishan-rayamajhi-202ba2401/)
